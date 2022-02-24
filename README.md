@@ -1,1 +1,0 @@
-# script-by-C.N
